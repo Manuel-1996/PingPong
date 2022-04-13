@@ -523,7 +523,7 @@ let dati = [
         "resultText": "",
         "isWinner": false,
         "status": "PLAYED",
-        "name": "Francesco Rosario Caiazzo",
+        "name": "Francesco Caiazzo",
         "picture": "teamlogos/client_team_default_logo"
       }
     ]
