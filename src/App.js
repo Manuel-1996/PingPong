@@ -8,8 +8,7 @@ function App() {
         <img src={logo} style={{width: "300px"}}  />
         <p style={{color: "black", fontFamily: "Dotum"}}>
 
-We bukki
-
+Complimenti per aver trovare il QR Code.. ma non avete indovinato! Riprova, facendo più attenzione!
         </p>
       </header>
     </div>
